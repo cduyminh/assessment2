@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"uart.h": "c",
+		"stdarg.h": "c",
+		"cdefs.h": "c",
+		"stdint.h": "c",
+		"stdint-gcc.h": "c",
+		"printf.h": "c",
+		"fish.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "Disabled",
+	"editor.maxTokenizationLineLength": 2000000
+}
